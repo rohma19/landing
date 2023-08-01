@@ -1,0 +1,14 @@
+element.style {
+  background-image: url(images/background.png);
+}
+
+.banner {
+  background-size: cover;
+  background-position: top;
+  padding: 200px 0;
+}
+
+.banner h1, .banner p {
+color: rgb(9, 138, 143);
+font-size:  30px;
+}
